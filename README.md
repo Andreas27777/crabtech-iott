@@ -1,8 +1,6 @@
 # 🦀 CrabTech IoT - Smart Mud Crab Aquaculture
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-</p>
+
 
 ## 📌 Tentang Proyek
 **CrabTech IoT** adalah solusi *Smart Farming* berbasis Internet of Things (IoT) yang dirancang khusus untuk budidaya kepiting bakau (*Mud Crab*) dalam sistem apartemen vertikal. Proyek ini lahir sebagai respons atas tingginya angka kematian kepiting di Batam yang mencapai 45-60% akibat kualitas air yang tidak terpantau.
